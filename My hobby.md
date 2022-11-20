@@ -5,8 +5,8 @@ I'm 20 years old.
 I want to tell you about my hobby.
 
 **I have 2 hobbies:**
-* read books
-* watch TV series/movies/YouTube
+* [read books](#books)
+* [watch TV series/movies/YouTube](#seriesmoviesyoutube)
 
 ## Books
 
@@ -30,6 +30,6 @@ I have some favorite books. One of my favorite books written by Anna Jane **"The
 2. Most often I watch YouTube, because there you can find a lot of different interesting videos.
 
 ---
-
+**Thanks for your attention!**
 
 
