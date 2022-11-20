@@ -14,4 +14,22 @@ I have some favorite books. One of my favorite books written by Anna Jane **"The
 
 ![This book](Fan.jpg)
 
+---
+
+## Series/movies/YouTube
+1. One of my favorite movies is **"Harry Potter"**. In fact , I like all the episodes of this story. This is an amazing magical story. There are philosophical thoughts in these films.
+
+[I liked the phrase from the movie:](https://www.youtube.com/watch?v=2nRvGt2vwts) 
+
+> The world is not divided into good and bad, everyone has both a light and a dark side, the main thing is which side you chose - it determines everything
+>
+> *Sirius Black*
+
+2. I also like the TV series "Closed School". There are many mysteries and unexpected moments in it. I hope that someday there will be a sequel to this series.
+
+2. Most often I watch YouTube, because there you can find a lot of different interesting videos.
+
+---
+
+
 
